@@ -1,6 +1,6 @@
 # ATmega32U4 Onboard Components Project Collection
 
-[![Arduino CI](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/actions/workflows/arduino-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/actions/workflows/arduino-ci.yml) <!-- Optional: Add a CI badge if you set one up -->
+<!-- Optional: Add a CI badge if you set one up -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Optional: Choose a license -->
 
 A collection of Arduino sketches designed for a custom or development board based on the Atmel ATmega32U4 microcontroller (compatible with Arduino Micro/Leonardo bootloader). This board features a rich set of built-in components, allowing for diverse and engaging projects without external hardware.
@@ -111,5 +111,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-*Remember to replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` with your actual GitHub username and repository name.*
-*If you choose to include a license, create a `LICENSE.md` file in your repository with the text of the chosen license (e.g., MIT License is very common and permissive).*
