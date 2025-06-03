@@ -23,8 +23,8 @@ This project leverages the following onboard components:
 
 This repository contains various example projects, ranging from beginner to advanced levels:
 
-1.  ** Automated Story Typer & Media Controller:** This project demonstrates the ATmega32U4's capability to act as a sophisticated Human Interface Device (HID), automating keyboard inputs to type a pre-defined story into Notepad and control system media volume.
-2.  ** Arduino Music Player:**This project demonstrates the ATmega32U4's capability to act as a  Music Player.
+1.  **Automated Story Typer & Media Controller:** This project demonstrates the ATmega32U4's capability to act as a sophisticated Human Interface Device (HID), automating keyboard inputs to type a pre-defined story into Notepad and control system media volume.
+2.  **Arduino Music Player:** This project demonstrates the ATmega32U4's capability to act as a  Music Player.
 
     
 
