@@ -23,17 +23,9 @@ This project leverages the following onboard components:
 
 This repository contains various example projects, ranging from beginner to advanced levels:
 
-1.  **LED & Button Fun:** Control LEDs with button presses and combinations.
-2.  **Potentiometer Control:** Adjust LED brightness and buzzer tone frequency using potentiometers.
-3.  **Simple Light Meter:** Indicate ambient light levels (Dark, Dim, Bright) using LEDs based on LDR readings.
-4.  **Basic Temperature Alert:** Monitor temperature with the NTC and trigger an LED/buzzer alarm.
-5.  **"Follow Me" Light Game:** A simple Simon-like memory game using LEDs, buttons, and a potentiometer.
-6.  **IR Proximity Detector:** Detect nearby objects using the IR transmitter and receiver.
-7.  **USB Keyboard Typer:** Use the ATmega32U4's HID capabilities to type characters selected by a potentiometer.
-8.  **NTC & LDR Data Logger (USB Keyboard):** Periodically "type out" sensor data to a connected computer.
-9.  **Simple IR Remote Control:** Basic IR signal transmission and reception to control LEDs.
-10. **Mini MIDI Controller:** Turn the board into a USB-MIDI device controlling notes and CC messages with potentiometers and buttons.
-    * *(Add more projects as you develop them)*
+1.  **Automated Story Typer & Media Controller:** This project demonstrates the ATmega32U4's capability to act as a sophisticated Human Interface Device (HID), automating keyboard inputs to type a pre-defined story into Notepad and control system media volume.
+
+    
 
 Each project is located in its own folder within the `examples/` or `sketches/` directory (e.g., `Project_01_LED_Button_Fun/Project_01_LED_Button_Fun.ino`).
 
